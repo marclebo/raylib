@@ -510,7 +510,7 @@
             <Value name="BLEND_MULTIPLIED" integer="2" desc="" />
             <Value name="BLEND_ADD_COLORS" integer="3" desc="" />
             <Value name="BLEND_SUBTRACT_COLORS" integer="4" desc="" />
-            <Value name="BLEND_CUSTOM" integer="5" desc="" />
+            <Value name="BLEND_RAYCUSTOM" integer="5" desc="" />
         </Enum>
         <Enum name="Gesture" valueCount="11" desc="">
             <Value name="GESTURE_NONE" integer="0" desc="" />

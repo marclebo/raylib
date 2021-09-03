@@ -560,7 +560,7 @@ Enum 17: BlendMode (6 values)
   Value[BLEND_MULTIPLIED]: 2
   Value[BLEND_ADD_COLORS]: 3
   Value[BLEND_SUBTRACT_COLORS]: 4
-  Value[BLEND_CUSTOM]: 5
+  Value[BLEND_RAYCUSTOM]: 5
 Enum 18: Gesture (11 values)
   Name: Gesture
  Description: 
